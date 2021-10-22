@@ -1,0 +1,14 @@
+[Det Assembly Info]
+	Optical Magnification = 9.938200
+[Image Info]
+	Current = 87.000000
+	Data Type = ushort
+	Dto R A Distance = 22508.412109
+	Exp Times = 4.000000
+	Image Height = 1003
+	Image Width = 976
+	Images Taken = 980
+	Optical Magnification = 9.938200
+	Pixel Size = 0.920143
+	Sto R A Distance = 11527.572266
+	Voltage = 80.000000
